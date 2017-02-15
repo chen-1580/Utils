@@ -1,4 +1,4 @@
-package aop;
+package aop.core;
 
 import java.lang.reflect.InvocationHandler;
 
